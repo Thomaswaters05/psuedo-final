@@ -1,0 +1,23 @@
+body {
+
+  background: tan;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+
+}
+
+span {
+  display: block;
+  border-style: dotted;
+  border-width: 1px;
+  border-color: forestgreen;
+  margin: 25px;
+}
+
+.n-child section:nth-of-type(2n){
+  border: 1px blue dotted;
+
+}
