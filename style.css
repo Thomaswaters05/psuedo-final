@@ -11,7 +11,7 @@ li {
 
 span {
   display: block;
-  border-style: dotted;
+  border-style: dashed;
   border-width: 1px;
   border-color: forestgreen;
   margin: 25px;
